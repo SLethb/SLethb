@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @SLethb
+- 👀 I’m interested in Front end development, Mobile App development and general UI
+- 🌱 I’m currently learning React, Kotlin and PHP
+- 📫 How to reach me s.lethbridge@yahoo.ca  
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love to immerse myself in reading and video games
